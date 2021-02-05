@@ -1,0 +1,13 @@
+{
+  "name": "CSP reporter instance",
+  "description": "A bare Node.js HTTP server for collect CSP Reports only.",
+  "repository": "https://github.com/cagataycali/csp-reporter.git",
+  "logo": "https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg",
+  "keywords": [
+    "node",
+    "HTTP",
+    "csp",
+    "csp reporter",
+    "csp violation collector"
+  ]
+}

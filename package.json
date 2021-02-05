@@ -1,0 +1,24 @@
+{
+  "name": "csp-reporter",
+  "version": "1.0.2",
+  "description": "CSP reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "sh test.sh",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cagataycali/csp-reporter.git"
+  },
+  "keywords": [
+    "csp",
+    "reporter"
+  ],
+  "author": "Cagatay Cali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/csp-reporter/issues"
+  },
+  "homepage": "https://github.com/cagataycali/csp-reporter#readme"
+}
